@@ -40,7 +40,7 @@ Chezz is like any standard chess, each piece moves exactly like standard chess. 
 3. If the circle next to the network is colored anything but green, check this [link](https://community.logmein.com/t5/Hamachi-Discussions/bd-p/Hamachi) for help in troubleshooting the issue.
 4. Copy Player 1's ipv4 address.
 5. Open "*DOSBox 0.74-3 Options.bat*".
-6. Replace the text hightlighted with the ipv4 address copied previously.
+6. Replace the text hightlighted and quotation marks with the ipv4 address copied previously.
 7. Change the path highlighted at the end of the file to the path at which the project was downloaded.
 8. Run DOSBox and press enter until the game starts.
 
